@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**abracew/abracew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Adrian. Data/policy analyst with domain knowledge in CA's public sector.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+View my data projects here:
+[projects]
+
+### Skills
+
+- Python
+- R
+- SQL
+- Power BI
+- Excel
+
+- [Linkedin](https://www.linkedin.com/in/adrian-bracewell-425567129/)
