@@ -1,6 +1,3 @@
-
-Data/policy analyst with domain knowledge in CA's public sector.
-
 # Skills
 
 - Python
