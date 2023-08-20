@@ -14,4 +14,4 @@ View my data projects here:
 - Power BI
 - Excel
 
-- [Linkedin](https://www.linkedin.com/in/adrian-bracewell-425567129/)
+[Linkedin](https://www.linkedin.com/in/adrian-bracewell-425567129/)
