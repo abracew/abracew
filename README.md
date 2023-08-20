@@ -1,11 +1,3 @@
-# Skills
-
-- Python
-- R
-- SQL
-- Power BI
-- Excel
-
 # Portfolio
 ## Data Analysis
 |Project Link|Project Description|Skills|Tools & Libraries|
