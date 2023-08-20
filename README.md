@@ -10,9 +10,6 @@ Data/policy analyst with domain knowledge in CA's public sector.
 - Excel
 
 # Portfolio
-
-Check out my projects below:
-
 ## Data Analysis
 |Project Link|Project Description|Skills|Tools & Libraries|
 |---|---|---|---|
