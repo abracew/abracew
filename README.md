@@ -3,7 +3,7 @@ A collection of data projects.
 ## Bot Development
 |Project Link|Project Description|Skills|Tools & Libraries|
 |---|---|---|---|
-|[Discord Fitness App (WIP)](https://github.com/adrianbracewell/Discord_Fitness_App)| A fitness tracker app for Discord that allows users to create their own workout programs, track their progress, and track their caloric intake. |Discord bot development, data management, analysis |Python, MySQL|
+|[Discord Fitness App (WIP)](https://github.com/adrianbracewell/Discord_Fitness_App)| A fitness tracker app for Discord that allows users to create their own workout programs, track their progress, and track their caloric intake. |Discord bot development, data management, analysis |Python, MySQL, matplotlib, tensorflow|
 ## Data Analysis
 |Project Link|Project Description|Skills|Tools & Libraries|
 |---|---|---|---|
