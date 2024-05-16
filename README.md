@@ -1,5 +1,5 @@
 # Portfolio
-A collection of personal data analysis projects.
+A collection of data projects.
 ## Data Analysis
 |Project Link|Project Description|Skills|Tools & Libraries|
 |---|---|---|---|
