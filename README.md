@@ -1,5 +1,9 @@
 # Portfolio
 A collection of data projects.
+## GIS
+|Project Link|Project Description|Skills|Tools & Libraries|
+|---|---|---|---|
+|Arcade Function References](https://github.com/adrianbracewell/Discord_FitBot)| A collection of Arcade scripts for manipulating Web Maps and Feature Layers in ArcGIS online. |Web Map/Feature Layer manipulation, data management, data visualization |ArcGIS Online, Arcade|
 ## Python Development
 |Project Link|Project Description|Skills|Tools & Libraries|
 |---|---|---|---|
